@@ -16,6 +16,6 @@ steps to follow:
 10. Then the no of faces detected in the image can be displayed and the image with detected faces is shown.
 
 
-output:
+sample output:
 
 ![output](https://user-images.githubusercontent.com/83624612/150482437-21937961-1192-464f-bfbc-21dac6a0cc60.jpg)
