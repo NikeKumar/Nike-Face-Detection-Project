@@ -1,5 +1,5 @@
 # Nike-Face-Detection-Project
-This is a python program Face Detection project used to find and identify human faces in digital images. This program can be performed with the help of azure cloud services
+This is a python program Face Detection project used to find and identify human faces in digital images. This program can be performed with the help of azure FACE API.
 
 
 steps to follow:
