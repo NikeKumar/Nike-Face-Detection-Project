@@ -7,6 +7,8 @@ PROJECT URL(CODE): https://github.com/NikeKumar/Nike-Face-Detection-Project
 
 PROJECT DEMO URL: https://nikekumar.github.io/Nike-Face-Detection-Project/
  
+VIDEO URL : https://drive.google.com/file/d/16mLFPHDBGOuLkZMHMZo0o5LkUXFxWyaS/view?usp=sharing
+ 
 steps to follow:
 
 1. Create a Azure subsciption in the website ("https://portal.azure.com/#home")
