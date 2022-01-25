@@ -7,7 +7,9 @@ PROJECT URL(CODE): https://github.com/NikeKumar/Nike-Face-Detection-Project
 
 PROJECT DEMO URL: https://nikekumar.github.io/Nike-Face-Detection-Project/
  
-VIDEO URL : https://drive.google.com/file/d/16mLFPHDBGOuLkZMHMZo0o5LkUXFxWyaS/view?usp=sharing
+VIDEO URL : 
+  G-Drive : https://drive.google.com/file/d/16mLFPHDBGOuLkZMHMZo0o5LkUXFxWyaS/view?usp=sharing
+  Youtube : https://youtu.be/p1BJwrGoMmA
  
 steps to follow:
 
@@ -24,19 +26,25 @@ steps to follow:
 
 Watch the video for clear clarification:
 
-VIDEO URL : https://drive.google.com/file/d/16mLFPHDBGOuLkZMHMZo0o5LkUXFxWyaS/view?usp=sharing
-
+VIDEO URL : 
+  G-Drive : https://drive.google.com/file/d/16mLFPHDBGOuLkZMHMZo0o5LkUXFxWyaS/view?usp=sharing
+  Youtube : https://youtu.be/p1BJwrGoMmA
+  
+  
 https://user-images.githubusercontent.com/83624612/150920222-50a62c4a-d06d-4dd8-9566-36b4fcd9b4ea.mp4
 
 
 
 sample output:
+
 output 1:
+
 (4 faces detected)
 
 ![output](https://user-images.githubusercontent.com/83624612/150482437-21937961-1192-464f-bfbc-21dac6a0cc60.jpg)
 
 output 2:
+
 (14 faces detected)
 
 ![b](https://user-images.githubusercontent.com/83624612/150921549-b47b56db-cb17-465a-968c-a2f051a9bd5e.jpg)
