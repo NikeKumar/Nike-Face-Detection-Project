@@ -9,6 +9,7 @@ PROJECT DEMO URL: https://nikekumar.github.io/Nike-Face-Detection-Project/
  
 VIDEO URL : 
   G-Drive : https://drive.google.com/file/d/16mLFPHDBGOuLkZMHMZo0o5LkUXFxWyaS/view?usp=sharing
+
   Youtube : https://youtu.be/p1BJwrGoMmA
  
 steps to follow:
